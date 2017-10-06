@@ -1,0 +1,12 @@
+<assembly>
+    <id>devops-lab-assembly-src</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+
+    <fileSets>
+        <fileSet>
+            <directory>src</directory>
+        </fileSet>
+    </fileSets>
+</assembly>
