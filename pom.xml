@@ -12,6 +12,8 @@
 
   <!-- Build with Java 7 -->
   <build>
+    <defaultGoal>install</defaultGoal>
+
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
